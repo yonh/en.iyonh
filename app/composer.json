@@ -1,0 +1,12 @@
+{
+    "name": "yonh/en-iyonh",
+    "license": "WTF",
+    "authors": [
+        {
+            "name": "yonh",
+            "email": "azssjli@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
